@@ -1,0 +1,25 @@
+# Build Maven
+target/
+
+# Fichiers compilés et archives
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# Système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Résultats générés par les exemples
+results/
